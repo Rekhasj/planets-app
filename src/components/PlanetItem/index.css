@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.img {
+  height: 100px;
+  width: 100px;
+  text-align: center;
+}
+
+.slide-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  color: #f8fafc;
+}
+p {
+  color: #f1f5f9;
+}
